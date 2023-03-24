@@ -16,15 +16,35 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: Optical Coherence Tomography (OCT)
           description: 90%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
+        - name: OCT Angiography (OCTA) 
           description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
+        - name: Intrinsic Optical Signalling
+          description: 10%
+          icon: camera-retro
+          icon_pack: fas
+        - name: Polymer Chemistry
+          description: 10%
+          icon: camera-retro
+          icon_pack: fas
+        - name: Experimental Design
+          description: 10%
+          icon: camera-retro
+          icon_pack: fas
+        - name: Scientific Communication
+          description: 10%
+          icon: camera-retro
+          icon_pack: fas
+        - name: Teaching and Mentorship
+          description: 10%
+          icon: camera-retro
+          icon_pack: fas
+        - name: Data analysis and Statistics
           description: 10%
           icon: camera-retro
           icon_pack: fas
