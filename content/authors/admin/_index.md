@@ -3,9 +3,7 @@ title: Guangying Ma
 role: Biomedical Engineering PhD Candidate
 bio: My research interests include functional OCT of retinal neurovascular coupling
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Retina
 social:
   - icon: envelope
     icon_pack: fas
