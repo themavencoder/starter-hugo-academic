@@ -16,7 +16,7 @@ sections:
     content:
       title: Skills
       items:
-        - name: Optical Coherence Tomography (OCT)
+        - name: OCT imaging
           icon: r-project
           icon_pack: fab
         - name: OCT Angiography (OCTA) 
