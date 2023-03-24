@@ -66,6 +66,20 @@ sections:
               OCT angiography (OCTA), high-resolution ophthalmoscopy, functional imaging of neurovascular
               interactions, image analysis employing machine learning, and artificial intelligence-based
               categorization.
+       - title: Graduate Research Assistant
+          company: University of Illinois at Chicago
+          company_url: ''
+          company_logo: org-gc
+          location: Chicago
+          date_start: '2018-09-01'
+          date_end: ''
+          description: |2-
+              Concentrating on cutting-edge ophthalmic equipment and quantitative imaging techniques to propel
+              retinal research, disease identification, and treatment assessment. Laboratory investigations 
+              involve extensive field fundus imaging, functional Optical Coherence Tomography (OCT), quantitative
+              OCT angiography (OCTA), high-resolution ophthalmoscopy, functional imaging of neurovascular
+              interactions, image analysis employing machine learning, and artificial intelligence-based
+              categorization.
         - title: Science Teacher
           company: Beijing Nantional Day School
           company_url: ''
@@ -83,6 +97,8 @@ sections:
           Inspires curiosity and exploration in students
           Fosters strong teacher-student relationships
           Creates engaging lesson plans and learning environments
+    
+    
     design:
       columns: '2'
   - block: accomplishments
