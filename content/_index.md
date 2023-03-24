@@ -52,27 +52,37 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Graduate Research Assistant
+          company: University of Illinois at Chicago
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Chicago
+          date_start: '2018-09-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              Concentrating on cutting-edge ophthalmic equipment and quantitative imaging techniques to propel
+              retinal research, disease identification, and treatment assessment. Laboratory investigations 
+              involve extensive field fundus imaging, functional Optical Coherence Tomography (OCT), quantitative
+              OCT angiography (OCTA), high-resolution ophthalmoscopy, functional imaging of neurovascular
+              interactions, image analysis employing machine learning, and artificial intelligence-based
+              categorization.
+        - title: Science Teacher
+          company: Beijing Nantional Day School
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Beijing
+          date_start: '2013-09-01'
+          date_end: '2018-07-31'
+          description: 
+          Well-rounded and passionate educator
+          Experienced in teaching chemistry, biology, physics, geography, and mathematics
+          College-level teaching experience
+          Emphasizes practical applications of scientific principles
+          Encourages critical thinking and problem-solving
+          Shares insights from personal research experience
+          Inspires curiosity and exploration in students
+          Fosters strong teacher-student relationships
+          Creates engaging lesson plans and learning environments
     design:
       columns: '2'
   - block: accomplishments
