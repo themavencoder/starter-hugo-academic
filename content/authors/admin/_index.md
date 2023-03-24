@@ -3,12 +3,7 @@ title: Guangying Ma
 role: Biomedical Engineering PhD Candidate
 bio: My research interests include functional OCT of retinal neurovascular coupling
 interests:
-  - Retina
-  - Intrinsic optical signal
-  - OCT
-  - OCTA
-  - imaging
-  - Photoreceptor response
+  - Retina, Intrinsic optical signal, OCT, OCTA, imaging, Photoreceptor response
 social:
   - icon: envelope
     icon_pack: fas
