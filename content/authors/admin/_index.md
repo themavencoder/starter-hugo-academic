@@ -50,7 +50,3 @@ Throughout my academic career, I have published numerous papers and actively par
 As I continue my PhD journey and beyond, I am excited to further explore the intricacies of retinal neurovasculature and make a lasting impact on biomedical engineering. I invite you to explore my website to learn more about my research, publications, and teaching experiences. Please feel free to contact me with any questions or collaboration opportunities.
 
 Thank you for visiting my website, and I look forward to sharing my passion for research and education with you!
-
-\
-
-{style="text-align: justify;"}
