@@ -73,7 +73,7 @@ sections:
           location: Beijing
           date_start: '2013-09-01'
           date_end: '2018-07-31'
-          description: 
+          description:  
           Well-rounded and passionate educator
           Experienced in teaching chemistry, biology, physics, geography, and mathematics
           College-level teaching experience
