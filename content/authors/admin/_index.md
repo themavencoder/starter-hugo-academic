@@ -39,5 +39,18 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Guangying(Max) Ma is a Ph.D. student who joined our lab on August 21, 2019, he published his first paper on February 6th,2021, and passed the preliminary examination on May 11th,2021.
+Hello! I'm Guangying Ma, a dedicated and passionate researcher currently pursuing my PhD in Biomedical Engineering. My research focuses on functional Optical Coherence Tomography (OCT) of retinal neurovasculature, which has the potential to transform our understanding of retinal diseases and pave the way for innovative diagnostic and treatment methods.
+
+My academic journey began at Nankai University, where I earned my Bachelor's degree from one of China's most esteemed institutions. I continued my education with a Master's degree in Polymer Chemistry at a top Chinese university. This interdisciplinary experience has allowed me to approach biomedical challenges from unique perspectives, integrating chemistry and materials science into my research.
+
+In addition to my research endeavors, I am an enthusiastic educator with experience teaching college-level courses in chemistry, biology, physics, geography, and mathematics. I believe in inspiring the next generation of scientists and researchers through effective teaching and mentorship.
+
+Throughout my academic career, I have published numerous papers and actively participated in scientific conferences. These experiences have allowed me to connect with fellow researchers, share my work, and stay up-to-date with the latest advancements in my field.
+
+As I continue my PhD journey and beyond, I am excited to further explore the intricacies of retinal neurovasculature and make a lasting impact on biomedical engineering. I invite you to explore my website to learn more about my research, publications, and teaching experiences. Please feel free to contact me with any questions or collaboration opportunities.
+
+Thank you for visiting my website, and I look forward to sharing my passion for research and education with you!
+
+\
+
 {style="text-align: justify;"}
