@@ -4,6 +4,11 @@ role: Biomedical Engineering PhD Candidate
 bio: My research interests include functional OCT of retinal neurovascular coupling
 interests:
   - Retina
+  - Intrinsic optical signal
+  - OCT
+  - OCTA
+  - imaging
+  - Photoreceptor response
 social:
   - icon: envelope
     icon_pack: fas
@@ -33,11 +38,11 @@ education:
       year: 2009
 superuser: true
 status:
-  icon: ☕️
-last_name: Wu
+  icon: 😁
+last_name: Ma
 highlight_name: true
-first_name: Alice
-email: ""
+first_name: Guangying
+email: "gma7@uic.edu"
 ---
 Hello! I'm Guangying Ma, a dedicated and passionate researcher currently pursuing my PhD in Biomedical Engineering. My research focuses on functional Optical Coherence Tomography (OCT) of retinal neurovasculature, which has the potential to transform our understanding of retinal diseases and pave the way for innovative diagnostic and treatment methods.
 
